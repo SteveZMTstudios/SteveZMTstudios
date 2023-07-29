@@ -6,3 +6,7 @@
 
 *就算您成年了也请选择“未满18岁”😊*
 
+Otherwise, if you are rickrolled, we will not assume any responsibility 😂😂😂
+
+
+
