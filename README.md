@@ -4,9 +4,13 @@
 
 网站在这里：[🚀Go!🚀](https://si1vr.github.io/)
 
-*就算您成年了也请选择“未满18岁”😊*
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=stevezmtstudios&count_private=true&show_icons=true&title_color=359697&icon_color=359697&hide_border=true" alt="SteveZMT's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevezmtstudios&layout=compact&title_color=359697&icon_color=359697&hide_border=true" /> |
+| ------------- | ------------- |
 
-Otherwise, if you are rickrolled, we will not assume any responsibility 😂😂😂
+ - 🌱 I’m currently learning C++, Python and Java.
+ - 🔑 I support free speech and democracy.
+ - 🖥️ Technology is my favourite subject.
+ - 📖 HOW SHIT THE NATIONAL COLLEDGE ENTRANCE EXAMINATION IT IS.
 
 
 
