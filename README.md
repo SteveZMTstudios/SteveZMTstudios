@@ -6,11 +6,13 @@
 
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=stevezmtstudios&count_private=true&show_icons=true&title_color=359697&icon_color=359697&hide_border=true" alt="SteveZMT's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevezmtstudios&layout=compact&title_color=359697&icon_color=359697&hide_border=true" /> |
 | ------------- | ------------- |
+[  **B-**  ](https://bcut.bilibili.cn/)lol
+
 
  - 🌱 I’m currently learning C++, Python and Java.
  - 🔑 I support free speech and democracy.
  - 🖥️ Technology is my favourite subject.
- - 📖 HOW SHIT THE NATIONAL COLLEDGE ENTRANCE EXAMINATION IT IS.
+ - 📖 HOW SH*T THE NATIONAL COLLEDGE ENTRANCE EXAMINATION IT IS.
 
 
 
