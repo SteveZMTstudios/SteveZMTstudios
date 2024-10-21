@@ -13,7 +13,7 @@
  - 🌱 I’m currently learning C++, Python and Java.
  - 🔑 I support free speech and democracy.
  - 🖥️ Technology is my favourite subject.
- - ☮️ Peaceful and Developing is the most important thing than before.
+ - ☮️ Peace and development are the most important and urgent matters than they are at present.
  - 📖 HOW SH*T THE NATIONAL COLLEDGE ENTRANCE EXAMINATION IT IS.
 
 
