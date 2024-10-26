@@ -14,7 +14,7 @@
  - 🔑 I support free speech and democracy.
  - 🖥️ Technology is my favourite subject.
  - ☮️ Peace and development are the most important and urgent matters than they are at present.
- - 📖 HOW SH*T THE CHINA NATIONAL COLLEDGE ENTRANCE EXAMINATION IT IS.
+ - 😾 HOW SH*T THE CHINA NATIONAL COLLEDGE ENTRANCE EXAMINATION IT IS.
 
 
 
