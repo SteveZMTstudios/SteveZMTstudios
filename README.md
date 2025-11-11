@@ -23,7 +23,6 @@
  - 🗿 🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿
  - ☮️ Peace and development are the most important and urgent matters than they are at present.
  - 👊 Memory overflow, segmentation fault? dude that's not a bug—it's a *feature* with artistic flair! 🤣
- - 😾 HOW SH*T THE CHINA NATIONAL COLLEDGE ENTRANCE EXAMINATION IT IS.
 
 
 
