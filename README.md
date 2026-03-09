@@ -7,10 +7,7 @@
 ![Failed to load badge](https://img.shields.io/github/followers/stevezmtstudios?style=for-the-badge&logo=github)
 ![Failed to load badge](https://komarev.com/ghpvc/?username=stevezmtstudios&style=for-the-badge&abbreviated=true&base=3188)<br>
 
-
-这里是 史蒂夫ZMT工作室(SteveZMTstudios)的Github🐙账户！😃
-
-网站在这里：[stevezmt.top](https://stevezmt.top)<br>
+[stevezmt.top](https://stevezmt.top)<br>
 [🔑✉️OpenPGP Keys](https://github.com/stevezmtstudios/PGPkey)
 
 |<img align="center" src="https://githubstat.vercel.miniproj.stevezmt.top/api?username=stevezmtstudios&count_private=true&show_icons=true&title_color=359697&icon_color=359697&hide_border=true" alt="SteveZMT's github stats" /> | <img align="center" src="https://githubstat.vercel.miniproj.stevezmt.top/api/top-langs/?username=stevezmtstudios&layout=compact&title_color=359697&icon_color=359697&hide_border=true" /> |
