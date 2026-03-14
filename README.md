@@ -13,12 +13,11 @@
 |<img align="center" src="https://githubstat.vercel.miniproj.stevezmt.top/api?username=stevezmtstudios&count_private=true&show_icons=true&title_color=359697&icon_color=359697&hide_border=true" alt="SteveZMT's github stats" /> | <img align="center" src="https://githubstat.vercel.miniproj.stevezmt.top/api/top-langs/?username=stevezmtstudios&layout=compact&title_color=359697&icon_color=359697&hide_border=true" /> |
 |---|---|
 
-
+ - ☮️ Peace and development are the most important and urgent matters than they are at present.
  - 🌱 I’m currently learning C++, Python and Java.
  - 🔑 I support free speech and democracy.
  - 🖥️ Technology is my favourite subject.
  - 🗿 🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿
- - ☮️ Peace and development are the most important and urgent matters than they are at present.
  - 👊 Memory overflow, segmentation fault? dude that's not a bug—it's a *feature* with artistic flair! 🤣
 
 
