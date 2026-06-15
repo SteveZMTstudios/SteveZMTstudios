@@ -1,8 +1,7 @@
 ## 你好！👋
 <a href="https://stevezmt.top/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&duration=2000&pause=1500&color=FFFFFF&background=1e242a&center=true&vCenter=true&random=false&width=420&lines=Welcome!+%F0%9F%92%9C;I+am+Steve+ZMT...;Nice+to+meet+you!;I+am+a+hobbyist+developer.;Check+out+my+website!;https%3A%2F%2Fwww.stevezmt.top" alt="Typing SVG" /><br>
 
-[![bilibili](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D474130186&query=%24.data.follower&logo=bilibili&logoColor=pink&label=Bilibili%20Subscriber&color=pink)
-](https://space.bilibili.com/474130186) ![donate](https://img.shields.io/badge/afdian-donate-purple?style=plastic&logo=GitHub%20Sponsors&logoColor=white&label=afdian) [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fstevezmtstudios&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/stevezmtstudios) [![知乎]([https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fzhang-xian-sheng-70-9&query=count&color=282c34&label=%E7%9F%A5%E4%B9%8E&labelColor=0084ff&logo=zhihu&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.zhihu.com%2Fapi%2Fv4%2Fmembers%2Fzhang-xian-sheng-70-9%3Finclude%3Dvoteup_count&query=%24.voteup_count&suffix=%20%E6%AC%A1%E8%B5%9E%E5%90%8C&logo=zhihu&logoColor=white&label=%E7%9F%A5%E4%B9%8E&cacheSeconds=3600))](https://www.zhihu.com/people/zhang-xian-sheng-70-9)
+[![bilibili](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D474130186&query=%24.data.follower&logo=bilibili&logoColor=pink&label=Bilibili%20Subscriber&color=pink)](https://space.bilibili.com/474130186) [![donate](https://img.shields.io/badge/afdian-donate-purple?style=plastic&logo=GitHub%20Sponsors&logoColor=white&label=afdian)](https://afdian.com/a/stevezmtstudios) [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fstevezmtstudios&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/stevezmtstudios) [![知乎]([https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fzhang-xian-sheng-70-9&query=count&color=282c34&label=%E7%9F%A5%E4%B9%8E&labelColor=0084ff&logo=zhihu&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.zhihu.com%2Fapi%2Fv4%2Fmembers%2Fzhang-xian-sheng-70-9%3Finclude%3Dvoteup_count&query=%24.voteup_count&suffix=%20%E6%AC%A1%E8%B5%9E%E5%90%8C&logo=zhihu&logoColor=white&label=%E7%9F%A5%E4%B9%8E&cacheSeconds=3600))](https://www.zhihu.com/people/zhang-xian-sheng-70-9)
 
 ![Failed to load badge](https://img.shields.io/github/followers/stevezmtstudios?style=for-the-badge&logo=github)
 ![Failed to load badge](https://komarev.com/ghpvc/?username=stevezmtstudios&style=for-the-badge&abbreviated=true&base=3188)<br>
@@ -11,6 +10,9 @@
 📰 [`SteveZMT's Blog`](https://blog.stevezmt.top) What is this guy mumbling about?  
 🔑 [`OpenPGP Keys`](https://key.stevezmt.top "I open my heart to you; please don't respond with a barb.") Exchange my PGP!  
 📇 [`VCard`](https://stevezmt.top/SteveZMTstudios/contacts.vcf "I open my heart to you; please don't respond with a barb.") Add me to contact!
+
+> [!NOTE]
+> I open my heart to you; please don't respond with a barb.
 
 ---
 
