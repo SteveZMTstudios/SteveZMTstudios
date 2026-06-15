@@ -23,10 +23,10 @@ URL;TYPE=qrz:https://qrz.com/db/BG5GKY
 KEY;PGP:https://github.com/stevezmtstudios.gpg
 KEY;TYPE=PGP:https://github.com/stevezmtstudios.gpg
 KEY;MEDIATYPE=application/pgp-keys:https://github.com/stevezmtstudios.gpg
-X-SOCIALPROFILE;type=telegram:https://t.me/stevezmtstudios
-X-SOCIALPROFILE;type=whatsapp:https://wa.me/37257243638
+X-SOCIALPROFILE;type=telegram;x-user=stevezmtstudios:https://t.me/stevezmtstudios
+X-SOCIALPROFILE;type=whatsapp;x-user=stevezmtstudios:https://wa.me/37257243638
 X-SOCIALPROFILE;type=twitter:http://twitter.com/stevezmtstudios
-X-SOCIALPROFILE;type=github:https://github.com/stevezmtstudios
+X-SOCIALPROFILE;type=github;x-user=stevezmtstudios:https://github.com/stevezmtstudios
 X-CALLSIGN:BG5GKY
 X-CALLSIGN-CALLSIGN:BG5GKY
 X-KADDRESSBOOK-BLOGFEED:https://blog.stevezmt.top/atom.xml
@@ -37,9 +37,9 @@ X-KADDRESSBOOK-CRYPTOSIGNPREF:alwaysIfPossible
 X-KADDRESSBOOK-OPENPGPFP:C96BE2F8EDE82CF7214F62593745872A953198FE
 item1.IMPP;X-SERVICE-TYPE=QQ;type=pref:x-apple:3579946866
 item1.X-ABLabel:QQ
-item2.IMPP;X-SERVICE-TYPE=Telegram:x-apple:@stevezmt
+item2.IMPP;X-SERVICE-TYPE=telegram:x-apple:@stevezmt
 item2.X-ABLabel:Telegram
-item3.IMPP;X-SERVICE-TYPE=Matrix:x-apple:@stevezmtstudios:matrix.org
+item3.IMPP;X-SERVICE-TYPE=matrix:x-apple:@stevezmtstudios:matrix.org
 item3.X-ABLabel:Matrix
 IMPP:telegram:@stevezmt
 IMPP:qq:3579946866
@@ -48,8 +48,14 @@ IMPP:matrix:@stevezmtstudios:matrix.org
 LANG:zh-CN
 TZ:+08:00
 NOTE:inferior | AS | Amateur Dev | Amateur Radio Operator | IT Research\n
- \nRCS: +372 57243638\niMessage / FaceTime: me@stevezmt.top\n (may be dela
- yed, cuz I receive that via a modified iPhone 4s lol)
+ \nTelegram: t.me/stevezmtstudios\n
+ RCS: +372 57243638\n
+ (dont make a call or send regular SMS messages unless you can afford 
+ the roaming charges or are willing to call the voicemail.)\n\n
+ iMessage / FaceTime: me@stevezmt.top\n 
+ (may be delayed, cuz I receive that via a modified iPhone 4s lol)\n\n
+ I probably prefer communicating via text to voice or phone.\n
+ For priority matters, please contact me via Telegram.
 SOURCE:https://stevezmt.top/SteveZMTstudios/contacts.vcf
 CALURI:https://outlook.office365.com/owa/calendar/758f1804f03c4d70a7a76bac
  5f6ebbd5@stevezmt.top/9d330bd9a1664244be1a0abe40df9ab01308544599433040657
