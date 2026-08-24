@@ -20,10 +20,10 @@
 
  - ☮️ Peace and development are the most important and urgent matters than they are at present.
  - 🌱 I’m currently learning C++, Python and Java.
- - 🔑 I support free speech and democracy.
- - 🖥️ Technology is my favourite subject.
+ - 🔑 I support free speech, democracy and equality.
+ - 🖥️ Technology and Engineering are my favourite subjects.
  - 🗿 🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿
- - 👊 Memory overflow, segmentation fault? dude that's not a bug—it's a *feature* with artistic flair! 🤣
+ - 😪 I feel so sleepy every day~
 
 
 
